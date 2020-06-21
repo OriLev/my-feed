@@ -1,0 +1,29 @@
+.feedContainer {
+  width: 60vw;
+  margin: 25px auto;
+}
+
+.headlinesList {
+  list-style-type: none;
+}
+
+.headlineContainer {
+  border: 1px solid black;
+  margin: 1.25em auto;
+  border-radius: 5px;
+  padding: 1em;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.headlineImg {
+  width: 25%;
+}
+
+.descriptionWrapper {
+  padding: 0 1em;
+}
